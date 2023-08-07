@@ -1,0 +1,52 @@
+[
+    {
+      "photo": "https://i.ibb.co/HFwWLWm/EP-230219574.jpg",
+      "className": "Bhangra",
+      "InstructorName": "John Smith",
+      "seats": 20,
+      "price": 49.99
+    },
+    {
+      "photo": "https://i.ibb.co/WPfTsLQ/60baaab0aa12e6d6ad9074b6-STEEZY-HIPHOP-min.jpg",
+      "className": "Flamenco",
+      "InstructorName": "Alice Johnson",
+      "seats": 15,
+      "price": 79.99
+    },
+    {
+      "photo": "https://i.ibb.co/DQfdDB2/dads-jpg-gallery.jpg",
+      "className": "Contemporary",
+      "InstructorName": "Bob Anderson",
+      "seats": 25,
+      "price": 64.99
+    },
+    {
+      "photo": "https://i.ibb.co/dKfG4xX/Featured-Image-Male-Dancer-center-right-2.webp",
+      "className": "Foxtrot",
+      "InstructorName": "Eve Williams",
+      "seats": 18,
+      "price": 89.99
+    },
+    {
+      "photo": "https://i.ibb.co/xznVM2Y/Chaplin-Charm.jpg",
+      "className": "Waltz",
+      "InstructorName": "Michael Brown",
+      "seats": 12,
+      "price": 109.99
+    },
+    {
+      "photo": "https://i.ibb.co/QPSZf4K/maxresdefault.jpg",
+      "className": "Tango",
+      "InstructorName": "Laura Martinez",
+      "seats": 30,
+      "price": 54.99
+    },
+    {
+      "photo": "https://i.ibb.co/Sy2nmnq/IMC392-300x300.jpg",
+      "className": "Salsa",
+      "InstructorName": "Alex Johnson",
+      "seats": 22,
+      "price": 69.99
+    }
+  ]
+  
